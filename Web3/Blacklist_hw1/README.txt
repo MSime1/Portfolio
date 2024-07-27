@@ -1,0 +1,1 @@
+ERC20 contract that inherits an array of addresses from a Blacklist contract and checks the addresses before performing certain operations. Usage of openzeppelin/contracts/Access/Ownable.sol for ownership management.

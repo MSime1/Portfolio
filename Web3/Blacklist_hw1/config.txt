@@ -1,0 +1,11 @@
+"devDependencies": {
+    "node.js": "v20.11.1",
+    "npm": "10.2.4",
+    "@openzeppelin/contracts": "^5.0.1",
+    "foundry": {
+"forge": "0.2.0",  
+"cast": "0.2.0",
+"anvil": "0.2.0",
+"chisel": "0.2.0"
+}
+  }

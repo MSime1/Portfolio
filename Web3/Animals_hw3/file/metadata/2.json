@@ -1,0 +1,20 @@
+{
+    "description": "Little origami elf", 
+    "external_url": "", 
+    "image": "https://green-binding-flea-592.mypinata.cloud/ipfs/QmXgA2eBLPeTJ7PNvBy579213qpjptppTDh5za9MvWKJNN/elf.png", 
+    "name": "Green Elf",
+    "attributes": [ 
+        {
+            "trait_type": "Background", 
+            "value": "Grey"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "green"
+          }
+    ]
+  
+ 
+    
+
+}

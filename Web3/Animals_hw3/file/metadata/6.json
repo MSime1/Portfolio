@@ -1,0 +1,18 @@
+{
+    "description": "Little origami wolf", 
+    "external_url": "", 
+    "image": "https://green-binding-flea-592.mypinata.cloud/ipfs/QmXgA2eBLPeTJ7PNvBy579213qpjptppTDh5za9MvWKJNN/wolf.png", 
+    "name": "White dwarf",
+    "attributes": [ 
+        {
+            "trait_type": "Background", 
+            "value": "Grey"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "light"
+          }
+
+    ]
+
+}

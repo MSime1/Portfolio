@@ -1,0 +1,17 @@
+{
+    "description": "Little origami tiger", 
+    "external_url": "", 
+    "image": "https://green-binding-flea-592.mypinata.cloud/ipfs/QmXgA2eBLPeTJ7PNvBy579213qpjptppTDh5za9MvWKJNN/tiger.png", 
+    "name": "Orange tiger",
+    "attributes": [ 
+        {
+            "trait_type": "Background", 
+            "value": "Grey"
+          }, 
+          {
+            "trait_type": "Color", 
+            "value": "orange"
+          }
+    ]
+
+}
